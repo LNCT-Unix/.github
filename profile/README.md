@@ -112,7 +112,7 @@ The wall below updates automatically from commit history of our main repository.
         <strong>Dev Sharma</strong>
       </a>
       <br /><br />
-      <sub><strong>Technical &amp; Design Lead</strong></sub>
+      <sub><strong>Technical Architecture &amp; System Design Lead</strong></sub>
       <br /><br />
       <sub>Architecture, Gateway Backend, Diagnostic Engine &amp; Database Design</sub>
     </td>
