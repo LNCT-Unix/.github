@@ -102,34 +102,46 @@ The wall below updates automatically from commit history of our main repository.
 
 ### ⭐ Core contributors
 
+
 <table>
   <tr>
     <td align="center" width="160">
       <a href="https://github.com/dev47929">
-        <img src="https://github.com/dev47929.png?size=120" width="96" alt="Dev Sharma" style="border-radius:50%" /><br />
+        <img src="https://github.com/dev47929.png?size=120"
+             width="96" alt="Dev Sharma"
+             style="border-radius:50%" /><br />
         <b>Dev Sharma</b>
       </a><br />
-      <sub>Technical &amp; design lead · Architecture, gateway backend, diagnostic engine, database design</sub>
+      <sub>Technical &amp; Design Lead · Architecture, Gateway Backend, Diagnostic Engine, Database Design</sub>
+    </td>
+
+    <td align="center" width="160">
       <a href="https://github.com/mahakshri">
-        <img src="https://github.com/mahakshri.png?size=120" width="96" alt="Dev Sharma" style="border-radius:50%" /><br />
+        <img src="https://github.com/mahakshri.png?size=120"
+             width="96" alt="Mahak Shrivastava"
+             style="border-radius:50%" /><br />
         <b>Mahak Shrivastava</b>
       </a><br />
-      <sub>System Flow Design ,LLM Fine Tuning</sub>
+      <sub>System Flow Design · LLM Fine-Tuning</sub>
     </td>
+
     <td align="center" width="160">
-      <i>add a teammate</i><br />
-      <sub>name, GitHub link and focus</sub>
+      <i>Add a teammate</i><br />
+      <sub>Name, GitHub link and focus</sub>
     </td>
+
     <td align="center" width="160">
-      <i>add a teammate</i><br />
-      <sub>name, GitHub link and focus</sub>
+      <i>Add a teammate</i><br />
+      <sub>Name, GitHub link and focus</sub>
     </td>
+
     <td align="center" width="160">
-      <i>add a teammate</i><br />
-      <sub>name, GitHub link and focus</sub>
+      <i>Add a teammate</i><br />
+      <sub>Name, GitHub link and focus</sub>
     </td>
   </tr>
 </table>
+
 
 ## 🤝 Contributing
 
