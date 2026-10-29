@@ -103,60 +103,45 @@ The wall below updates automatically from commit history of our main repository.
 ### ⭐ Core contributors
 
 
-<table width="100%" align="center">
-  <thead>
-    <tr>
-      <th align="center">Team Member</th>
-      <th align="center">Team Member</th>
-      <th align="center">Team Member</th>
-      <th align="center">Team Member</th>
-      <th align="center">Team Member</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="20%" valign="top">
-        <a href="https://github.com/dev47929">
-          <img src="https://github.com/dev47929.png?size=120"
-               width="90" alt="Dev Sharma" /><br />
-          <strong>Dev Sharma</strong>
-        </a>
-        <br /><br />
-        <sub>Technical &amp; Design Lead</sub>
-        <br />
-        <sub>Architecture, Gateway Backend, Diagnostic Engine &amp; Database Design</sub>
-      </td>
 
-      <td align="center" width="20%" valign="top">
-        <a href="https://github.com/mahakshri">
-          <img src="https://github.com/mahakshri.png?size=120"
-               width="90" alt="Mahak Shrivastava" /><br />
-          <strong>Mahak Shrivastava</strong>
-        </a>
-        <br /><br />
-        <sub>System Flow Design &amp; LLM Fine-Tuning</sub>
-      </td>
-
-      <td align="center" width="20%" valign="top">
-        <em>Add a teammate</em>
-        <br /><br />
-        <sub>Name, GitHub link and focus</sub>
-      </td>
-
-      <td align="center" width="20%" valign="top">
-        <em>Add a teammate</em>
-        <br /><br />
-        <sub>Name, GitHub link and focus</sub>
-      </td>
-
-      <td align="center" width="20%" valign="top">
-        <em>Add a teammate</em>
-        <br /><br />
-        <sub>Name, GitHub link and focus</sub>
-      </td>
-    </tr>
-  </tbody>
+<table>
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <a href="https://github.com/dev47929">
+        <img src="https://github.com/dev47929.png?size=120" width="90" alt="Dev Sharma" /><br />
+        <strong>Dev Sharma</strong>
+      </a>
+      <br /><br />
+      <sub><strong>Technical &amp; Design Lead</strong></sub>
+      <br /><br />
+      <sub>Architecture, Gateway Backend, Diagnostic Engine &amp; Database Design</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://github.com/mahakshri">
+        <img src="https://github.com/mahakshri.png?size=120" width="90" alt="Mahak Shrivastava" /><br />
+        <strong>Mahak Shrivastava</strong>
+      </a>
+      <br /><br />
+      <sub>System Flow Design &amp; LLM Fine-Tuning</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <em>Add a teammate</em>
+      <br /><br />
+      <sub>Name, GitHub profile &amp; area of focus</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <em>Add a teammate</em>
+      <br /><br />
+      <sub>Name, GitHub profile &amp; area of focus</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <em>Add a teammate</em>
+      <br /><br />
+      <sub>Name, GitHub profile &amp; area of focus</sub>
+    </td>
+  </tr>
 </table>
+
 
 
 ## 🤝 Contributing
