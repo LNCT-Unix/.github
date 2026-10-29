@@ -46,23 +46,6 @@ Most learners choose what to study by guesswork. We replace the guesswork with t
 
 Architecture designed by Dev Sharma, technical and design lead.
 
-### 🏗️ How it fits together
-
-```mermaid
-flowchart LR
-    A["Web and mobile apps"] --> B["Spring Boot gateway<br/>auth, orgs, skill graph, test engine"]
-    B --> C[("PostgreSQL")]
-    B -- "private network" --> D["Node.js AI worker<br/>slow LLM jobs"]
-    D --> E["LLM provider"]
-```
-
-The gateway is the only service the apps talk to. The AI worker does the slow work in the background and returns validated JSON.
-
-## 🗺️ Roadmap
-
-| Stage | What it covers | Status |
-|---|---|---|
-| **Sprint 1** | Backend skill graph and adaptive diagnostic test | 🚧 In progress |
 
 ## 🧰 Tech we use
 
