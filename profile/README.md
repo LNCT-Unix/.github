@@ -62,8 +62,34 @@ Architecture designed by Dev Sharma, technical and design lead.
 
 <div align="center">
   <a href="https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LNCT-Unix&repo=AI-Powered-Upskilling-Platform&theme=transparent&title_color=6366F1&icon_color=0EA5E9&text_color=8b949e&border_color=6366F1&show_owner=true" alt="AI-Powered-Upskilling-Platform repository card" />
+    <img src="https://opengraph.githubassets.com/1/LNCT-Unix/AI-Powered-Upskilling-Platform" width="600" alt="AI-Powered-Upskilling-Platform repository preview" />
   </a>
+
+  <br /><br />
+
+  <a href="https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform">
+    <img src="https://img.shields.io/github/stars/LNCT-Unix/AI-Powered-Upskilling-Platform?style=for-the-badge&logo=github&color=6366F1&labelColor=0d1117" alt="Stars" />
+  </a>
+  <a href="https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform/forks">
+    <img src="https://img.shields.io/github/forks/LNCT-Unix/AI-Powered-Upskilling-Platform?style=for-the-badge&logo=git&color=0EA5E9&labelColor=0d1117" alt="Forks" />
+  </a>
+  <a href="https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform/issues">
+    <img src="https://img.shields.io/github/issues/LNCT-Unix/AI-Powered-Upskilling-Platform?style=for-the-badge&color=6366F1&labelColor=0d1117" alt="Issues" />
+  </a>
+  <a href="https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform/commits">
+    <img src="https://img.shields.io/github/last-commit/LNCT-Unix/AI-Powered-Upskilling-Platform?style=for-the-badge&color=0EA5E9&labelColor=0d1117" alt="Last commit" />
+  </a>
+  <img src="https://img.shields.io/github/languages/top/LNCT-Unix/AI-Powered-Upskilling-Platform?style=for-the-badge&color=6366F1&labelColor=0d1117" alt="Top language" />
+
+  <br /><br />
+
+  <sub>
+    <a href="https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform"><strong>Explore the repository</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform/issues">Report an issue</a>
+    &nbsp;·&nbsp;
+    Maintained by <a href="https://github.com/dev47929">Dev Sharma</a> &amp; Team Unix
+  </sub>
 </div>
 
 > **upskill-platform** is where the gateway, AI worker, web app, mobile app and docs live. Start here.
