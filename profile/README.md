@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Team%20Unix&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Measure.%20Plan.%20Grow.&descSize=20&descAlignY=72" alt="Team Unix banner" width="100%" />
 
-<a href="https://github.com/ORG-NAME/upskill-platform">
+<a href="https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=We+build+tools+that+show+where+you+really+stand;Adaptive+tests.+AI+roadmaps.+Real+progress." alt="Typing tagline" />
 </a>
 
@@ -44,7 +44,7 @@ Most learners choose what to study by guesswork. We replace the guesswork with t
   </tr>
 </table>
 
-Architecture designed by Dev Sharma.
+Architecture designed by Dev Sharma, technical and design lead.
 
 ### 🏗️ How it fits together
 
@@ -81,8 +81,8 @@ The gateway is the only service the apps talk to. The AI worker does the slow wo
 ## 🔝 Top repository
 
 <div align="center">
-  <a href="https://github.com/ORG-NAME/upskill-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ORG-NAME&repo=upskill-platform&theme=transparent&title_color=6366F1&icon_color=0EA5E9&text_color=8b949e&border_color=6366F1&show_owner=true" alt="upskill-platform repository card" />
+  <a href="https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LNCT-Unix&repo=AI-Powered-Upskilling-Platform&theme=transparent&title_color=6366F1&icon_color=0EA5E9&text_color=8b949e&border_color=6366F1&show_owner=true" alt="AI-Powered-Upskilling-Platform repository card" />
   </a>
 </div>
 
@@ -99,8 +99,8 @@ The gateway is the only service the apps talk to. The AI worker does the slow wo
 
 The wall below updates automatically from commit history of our main repository.
 
-<a href="https://github.com/ORG-NAME/upskill-platform/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ORG-NAME/upskill-platform" alt="Contributors to upskill-platform" />
+<a href="https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LNCT-Unix/AI-Powered-Upskilling-Platform" alt="Contributors to AI-Powered-Upskilling-Platform" />
 </a>
 
 ### ⭐ Core contributors
@@ -112,7 +112,7 @@ The wall below updates automatically from commit history of our main repository.
         <img src="https://github.com/dev47929.png?size=120" width="96" alt="Dev Sharma" style="border-radius:50%" /><br />
         <b>Dev Sharma</b>
       </a><br />
-      <sub>Architecture, gateway backend, diagnostic engine, database design</sub>
+      <sub>Technical &amp; design lead · Architecture, gateway backend, diagnostic engine, database design</sub>
     </td>
     <td align="center" width="160">
       <i>add a teammate</i><br />
@@ -149,6 +149,6 @@ Found a problem or have an idea? Open an issue in the repository it relates to.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" alt="" width="100%" />
 
-<sub>Team Unix · Lakshmi Narain College of Technology, Bhopal · This profile is maintained by Dev Sharma</sub>
+<sub>Team Unix · Lakshmi Narain College of Technology, Bhopal · This profile is maintained by Dev Sharma, technical and design lead</sub>
 
 </div>
