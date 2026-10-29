@@ -78,6 +78,16 @@ The gateway is the only service the apps talk to. The AI worker does the slow wo
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+## 🔝 Top repository
+
+<div align="center">
+  <a href="https://github.com/ORG-NAME/upskill-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ORG-NAME&repo=upskill-platform&theme=transparent&title_color=6366F1&icon_color=0EA5E9&text_color=8b949e&border_color=6366F1&show_owner=true" alt="upskill-platform repository card" />
+  </a>
+</div>
+
+> **upskill-platform** is where the gateway, AI worker, web app, mobile app and docs live. Start here.
+
 ## 📦 Repositories
 
 | Repository | What it is |
