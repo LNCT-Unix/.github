@@ -125,23 +125,91 @@ The wall below updates automatically from commit history of our main repository.
       <sub>System Flow Design &amp; LLM Fine-Tuning</sub>
     </td>
     <td align="center" valign="top" width="20%">
-      <em>Add a teammate</em>
+      <a href="https://github.com/JainMahi23">
+        <img src="https://github.com/JainMahi23.png?size=120" width="90" alt="Mahi Jain" /><br />
+        <strong>Mahi Jain</strong>
+      </a>
       <br /><br />
-      <sub>Name, GitHub profile &amp; area of focus</sub>
+      <sub>Area of focus</sub>
     </td>
     <td align="center" valign="top" width="20%">
-      <em>Add a teammate</em>
+      <a href="https://github.com/anmol-sh04">
+        <img src="https://github.com/anmol-sh04.png?size=120" width="90" alt="Anmol Sharma" /><br />
+        <strong>Anmol Sharma</strong>
+      </a>
       <br /><br />
-      <sub>Name, GitHub profile &amp; area of focus</sub>
+      <sub>Area of focus</sub>
     </td>
     <td align="center" valign="top" width="20%">
-      <em>Add a teammate</em>
+      <a href="https://github.com/ashutoshprajapat29">
+        <img src="https://github.com/ashutoshprajapat29.png?size=120" width="90" alt="Ashutosh Prajapat" /><br />
+        <strong>Ashutosh Prajapat</strong>
+      </a>
       <br /><br />
-      <sub>Name, GitHub profile &amp; area of focus</sub>
+      <sub>Area of focus</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <a href="https://github.com/saniyasarkar7863-blip">
+        <img src="https://github.com/saniyasarkar7863-blip.png?size=120" width="90" alt="Saniya Sarkar" /><br />
+        <strong>Saniya Sarkar</strong>
+      </a>
+      <br /><br />
+      <sub>Area of focus</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://github.com/animeshjain">
+        <img src="https://github.com/animeshjain.png?size=120" width="90" alt="Animesh Jain" /><br />
+        <strong>Animesh Jain</strong>
+      </a>
+      <br /><br />
+      <sub>Area of focus</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://github.com/manvichhabra18-collab">
+        <img src="https://github.com/manvichhabra18-collab.png?size=120" width="90" alt="Manvi Chhabra" /><br />
+        <strong>Manvi Chhabra</strong>
+      </a>
+      <br /><br />
+      <sub>Area of focus</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://github.com/Sanskriti-l-cs">
+        <img src="https://github.com/Sanskriti-l-cs.png?size=120" width="90" alt="Sanskriti Lalwani" /><br />
+        <strong>Sanskriti Lalwani</strong>
+      </a>
+      <br /><br />
+      <sub>Area of focus</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://github.com/riyaaa-vj">
+        <img src="https://github.com/riyaaa-vj.png?size=120" width="90" alt="Riya Vijaywargiya" /><br />
+        <strong>Riya Vijaywargiya</strong>
+      </a>
+      <br /><br />
+      <sub>Area of focus</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <a href="https://github.com/aniruddha-sharma">
+        <img src="https://github.com/aniruddha-sharma.png?size=120" width="90" alt="Aniruddha Sharma" /><br />
+        <strong>Aniruddha Sharma</strong>
+      </a>
+      <br /><br />
+      <sub>Area of focus</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <a href="https://github.com/aadislnk">
+        <img src="https://github.com/aadislnk.png?size=120" width="90" alt="Adityaraj Solanki" /><br />
+        <strong>Adityaraj Solanki</strong>
+      </a>
+      <br /><br />
+      <sub>Area of focus</sub>
     </td>
   </tr>
 </table>
-
 
 
 ## 🤝 Contributing
