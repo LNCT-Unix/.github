@@ -63,9 +63,6 @@ The gateway is the only service the apps talk to. The AI worker does the slow wo
 | Stage | What it covers | Status |
 |---|---|---|
 | **Sprint 1** | Backend skill graph and adaptive diagnostic test | 🚧 In progress |
-| **Sprint 2** | To be confirmed with the EPAM roadmap | 🗓️ Planned |
-| **Sprint 3** | To be confirmed with the EPAM roadmap | 🗓️ Planned |
-| **Sprint 4** | To be confirmed with the EPAM roadmap | 🗓️ Planned |
 
 ## 🧰 Tech we use
 
@@ -113,6 +110,11 @@ The wall below updates automatically from commit history of our main repository.
         <b>Dev Sharma</b>
       </a><br />
       <sub>Technical &amp; design lead · Architecture, gateway backend, diagnostic engine, database design</sub>
+      <a href="https://github.com/mahakshri">
+        <img src="https://github.com/mahakshri.png?size=120" width="96" alt="Dev Sharma" style="border-radius:50%" /><br />
+        <b>Mahak Shrivastava</b>
+      </a><br />
+      <sub>System Flow Design ,LLM Fine Tuning</sub>
     </td>
     <td align="center" width="160">
       <i>add a teammate</i><br />
