@@ -92,7 +92,7 @@ The gateway is the only service the apps talk to. The AI worker does the slow wo
 
 | Repository | What it is |
 |---|---|
-| [`upskill-platform`]([https://github.com/ORG-NAME/upskill-platform](https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform)) | The main project: gateway, AI worker, web app, mobile app and docs |
+| [`upskill-platform`](https://github.com/LNCT-Unix/AI-Powered-Upskilling-Platform) | The main project: gateway, AI worker, web app, mobile app and docs |
 | More coming | New repositories will be listed here as the team creates them |
 
 ## 🏆 Top contributors
