@@ -202,8 +202,8 @@ The wall below updates automatically from commit history of our main repository.
   </tr>
   <tr>
     <td align="center" valign="top" width="20%">
-      <a href="https://github.com/aniruddha-sharma">
-        <img src="https://github.com/aniruddha-sharma.png?size=120" width="90" alt="Aniruddha Sharma" /><br />
+      <a href="https://github.com/AniruddhaSharma445">
+        <img src="https://github.com/AniruddhaSharma445.png?size=120" width="90" alt="Aniruddha Sharma" /><br />
         <strong>Aniruddha Sharma</strong>
       </a>
       <br /><br />
