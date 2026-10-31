@@ -192,8 +192,8 @@ The wall below updates automatically from commit history of our main repository.
       <sub>Area of focus</sub>
     </td>
     <td align="center" valign="top" width="20%">
-      <a href="https://github.com/riyaaa-vj">
-        <img src="https://github.com/riyaaa-vj.png?size=120" width="90" alt="Riya Vijaywargiya" /><br />
+      <a href="https://github.com/riyaa-vj">
+        <img src="https://github.com/riyaa-vj.png?size=120" width="90" alt="Riya Vijaywargiya" /><br />
         <strong>Riya Vijaywargiya</strong>
       </a>
       <br /><br />
