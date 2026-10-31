@@ -168,8 +168,8 @@ The wall below updates automatically from commit history of our main repository.
       <sub>Area of focus</sub>
     </td>
     <td align="center" valign="top" width="20%">
-      <a href="https://github.com/animeshjain">
-        <img src="https://github.com/animeshjain.png?size=120" width="90" alt="Animesh Jain" /><br />
+      <a href="https://github.com/Animeshj21">
+        <img src="https://github.com/Animeshj21.png?size=120" width="90" alt="Animesh Jain" /><br />
         <strong>Animesh Jain</strong>
       </a>
       <br /><br />
